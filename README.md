@@ -36,13 +36,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/duvi19/partigram/blob/master/parsegram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+the challenge I had was using the parse becasue in the video that code path provided did not show me how to properly put the parse code
+I figured it out which I feel proud of it so I thanks codepath for this amazing experience.
 
 ## Open-source libraries used
 
